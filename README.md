@@ -90,6 +90,10 @@ adb shell wm size
 - 231	打开语音助手
 - 276	如果没有 wakelock 则让系统休眠
 
+## Dependencies
+
+- [socket-remoting](https://github.com/no-today/socket-remoting)
+
 ## References
 
 - [ADB 用法大全](https://github.com/mzlogin/awesome-adb)
